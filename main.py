@@ -1,5 +1,7 @@
 from tests import FibonacciTest as fibonacci
 from tests import SearchTest as search
+from tests import SortTest as sort
+
 
 print("           _                  _ _   _                    ")
 print("     /\   | |                (_) | | |                   ")
@@ -12,3 +14,4 @@ print("             |___/                                     \n")
 
 fibonacci.test()
 search.test()
+sort.test()
