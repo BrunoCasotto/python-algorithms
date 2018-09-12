@@ -1,6 +1,6 @@
-from tests import FibonacciTest as fibonacci
-from tests import SearchTest as search
-from tests import SortTest as sort
+from benchmarks import Fibonacci as fibonacci
+from benchmarks import Search as search
+from benchmarks import Sort as sort
 
 
 print("           _                  _ _   _                    ")
